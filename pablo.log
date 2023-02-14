@@ -1,0 +1,141 @@
+[INFO] 2023-02-14 08:29:57,049 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónHASH_STRING
+[INFO] 2023-02-14 08:30:15,599 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónSALIR
+[INFO] 2023-02-14 08:30:15,599 [main]  com.mycompany.psp_ev2_libexamen.Main main - Cerramos la apliación
+[INFO] 2023-02-14 08:32:10,817 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónHASH_STRING
+[INFO] 2023-02-14 08:32:24,992 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónSALIR
+[INFO] 2023-02-14 08:32:24,992 [main]  com.mycompany.psp_ev2_libexamen.Main main - Cerramos la apliación
+[INFO] 2023-02-14 08:36:06,438 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónHASH_STRING
+[INFO] 2023-02-14 08:36:08,085 [main]  com.mycompany.psp_ev2_libexamen.managers.UIManager stringToHashedBase64 - Se va a hashear el inputasd
+[INFO] 2023-02-14 08:36:08,099 [main]  com.mycompany.psp_ev2_libexamen.managers.UIManager stringToHashedBase64 - El Hash del String:asd en Base64 es:5U7n4oX7sCdSeRQ6vExVTlMU57QX7KyDpZhKlk+suq1ohmooQcPoPd8SWimFVmJhxAFPn5YOxgJTrrzalROptA==
+[WARN] 2023-02-14 09:28:33,775 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 09:28:36,380 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónDES
+[WARN] 2023-02-14 09:35:24,049 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 09:35:27,536 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónDES
+[INFO] 2023-02-14 09:35:27,648 [main]  com.mycompany.psp_ev2_libexamen.managers.CipherManager generateSecretKey - La key simetrica generada es:com.sun.crypto.provider.DESKey@fffe7afe
+[WARN] 2023-02-14 09:35:44,250 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 09:35:45,972 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónDES
+[INFO] 2023-02-14 09:35:46,050 [main]  com.mycompany.psp_ev2_libexamen.managers.CipherManager generateSecretKey - La key simetrica generada es:com.sun.crypto.provider.DESKey@fffe7bef
+[WARN] 2023-02-14 09:39:35,008 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 09:39:37,497 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónDES
+[INFO] 2023-02-14 09:39:37,580 [main]  com.mycompany.psp_ev2_libexamen.managers.CipherManager generateSecretKey - La key simetrica generada es:com.sun.crypto.provider.DESKey@fffe798b
+[WARN] 2023-02-14 09:40:26,274 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 09:40:29,205 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónDES
+[INFO] 2023-02-14 09:40:29,289 [main]  com.mycompany.psp_ev2_libexamen.managers.CipherManager generateSecretKey - La key simetrica generada es:com.sun.crypto.provider.DESKey@18416
+[WARN] 2023-02-14 09:47:09,705 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 09:47:16,567 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónDES
+[INFO] 2023-02-14 09:47:16,647 [main]  com.mycompany.psp_ev2_libexamen.managers.CipherManager generateSecretKey - La key simetrica generada es:com.sun.crypto.provider.DESKey@185d9
+[WARN] 2023-02-14 09:48:17,639 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[WARN] 2023-02-14 09:49:05,455 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[WARN] 2023-02-14 09:49:22,396 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[WARN] 2023-02-14 09:49:43,287 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 09:49:56,588 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónDES
+[INFO] 2023-02-14 09:50:02,019 [main]  com.mycompany.psp_ev2_libexamen.managers.CipherManager generateSecretKey - La key simetrica generada es:com.sun.crypto.provider.DESKey@fffe79cc
+[WARN] 2023-02-14 09:53:31,668 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 09:53:33,620 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónDES
+[INFO] 2023-02-14 09:53:33,703 [main]  com.mycompany.psp_ev2_libexamen.managers.CipherManager generateSecretKey - La key simetrica generada es:com.sun.crypto.provider.DESKey@fffe7e30
+[WARN] 2023-02-14 10:16:01,685 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 10:16:08,993 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónCIFRADO_ASIMETRICO_RSA
+[WARN] 2023-02-14 10:16:20,782 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 10:16:22,084 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónCIFRADO_ASIMETRICO_RSA
+[WARN] 2023-02-14 10:16:34,839 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 10:16:36,250 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónCIFRADO_ASIMETRICO_RSA
+[WARN] 2023-02-14 10:41:49,173 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 10:42:00,836 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónSALIR
+[INFO] 2023-02-14 10:42:00,836 [main]  com.mycompany.psp_ev2_libexamen.Main main - Cerramos la apliación
+[WARN] 2023-02-14 10:42:07,099 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 10:42:09,057 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónHASH_STRING
+[INFO] 2023-02-14 10:42:13,433 [main]  com.mycompany.psp_ev2_libexamen.managers.UIManager stringToHashedBase64 - Se va a hashear el input asd
+[INFO] 2023-02-14 10:42:13,445 [main]  com.mycompany.psp_ev2_libexamen.managers.UIManager stringToHashedBase64 - El Hash del String: asd en Base64 es: 5U7n4oX7sCdSeRQ6vExVTlMU57QX7KyDpZhKlk+suq1ohmooQcPoPd8SWimFVmJhxAFPn5YOxgJTrrzalROptA==
+[INFO] 2023-02-14 10:42:16,177 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónCIFRADO_SIMETRICO_DES
+[INFO] 2023-02-14 10:42:16,245 [main]  com.mycompany.psp_ev2_libexamen.managers.CipherManager generateSecretKey - La key simetrica generada es:com.sun.crypto.provider.DESKey@fffe79b1
+[WARN] 2023-02-14 10:42:55,686 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 10:42:57,650 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónCIFRADO_SIMETRICO_DES
+[INFO] 2023-02-14 10:53:31,423 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónSALIR
+[INFO] 2023-02-14 10:53:31,423 [main]  com.mycompany.psp_ev2_libexamen.Main main - Cerramos la apliación
+[WARN] 2023-02-14 11:01:21,112 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 11:01:23,397 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónCIFRADO_ASIMETRICO_RSA
+[WARN] 2023-02-14 11:01:51,256 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 11:02:05,216 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónCIFRADO_ASIMETRICO_RSA
+[WARN] 2023-02-14 11:03:27,665 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 11:03:57,544 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónCIFRADO_ASIMETRICO_RSA
+[WARN] 2023-02-14 11:17:50,371 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 11:17:52,559 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónCIFRADO_ASIMETRICO_RSA
+[WARN] 2023-02-14 11:18:55,251 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 11:19:05,830 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónCIFRADO_ASIMETRICO_RSA
+[WARN] 2023-02-14 11:27:38,259 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 11:27:42,933 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónSALIR
+[INFO] 2023-02-14 11:27:42,933 [main]  com.mycompany.psp_ev2_libexamen.Main main - Cerramos la apliación
+[WARN] 2023-02-14 11:55:20,908 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 11:55:23,935 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónCIFRADO_ASIMETRICO_RSA_FIRMA_DIGITAL
+[WARN] 2023-02-14 11:55:24,114 [main]  com.mycompany.psp_ev2_libexamen.Main main - La firma digital no es válida
+[WARN] 2023-02-14 11:56:56,305 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 11:56:59,330 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónCIFRADO_ASIMETRICO_RSA_FIRMA_DIGITAL
+[WARN] 2023-02-14 11:56:59,509 [main]  com.mycompany.psp_ev2_libexamen.Main main - La firma digital no es válida
+[WARN] 2023-02-14 11:58:41,599 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 11:58:43,011 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónCIFRADO_ASIMETRICO_RSA_FIRMA_DIGITAL
+[WARN] 2023-02-14 12:01:12,778 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 12:01:14,633 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónCIFRADO_ASIMETRICO_RSA_FIRMA_DIGITAL
+[INFO] 2023-02-14 12:02:12,599 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónCIFRADO_ASIMETRICO_RSA_FIRMA_DIGITAL
+[WARN] 2023-02-14 12:02:12,616 [main]  com.mycompany.psp_ev2_libexamen.Main main - La firma digital no es válida
+[WARN] 2023-02-14 12:02:30,322 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 12:02:37,734 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónCIFRADO_ASIMETRICO_DSA_FIRMA_DIGITAL
+[WARN] 2023-02-14 12:59:51,681 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 12:59:54,496 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónENVIAR_CORREO
+[WARN] 2023-02-14 13:00:47,662 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 13:00:50,058 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónENVIAR_CORREO
+[INFO] 2023-02-14 13:25:34,256 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónSALIR
+[INFO] 2023-02-14 13:25:34,256 [main]  com.mycompany.psp_ev2_libexamen.Main main - Cerramos la apliación
+[WARN] 2023-02-14 13:25:46,604 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 13:25:49,650 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónCIFRARDO_ASIMETRICO_CONTRASEÑA_CIFRADA_SIMETRICA
+[INFO] 2023-02-14 13:25:49,730 [main]  com.mycompany.psp_ev2_libexamen.managers.CipherManager generateSecretKey - La key simetrica generada es:com.sun.crypto.provider.DESKey@fffe7ce7
+[WARN] 2023-02-14 13:26:20,730 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 13:26:23,326 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónCIFRARDO_ASIMETRICO_CONTRASEÑA_CIFRADA_SIMETRICA
+[INFO] 2023-02-14 13:26:23,402 [main]  com.mycompany.psp_ev2_libexamen.managers.CipherManager generateSecretKey - La key simetrica generada es:com.sun.crypto.provider.DESKey@1813d
+[WARN] 2023-02-14 13:35:44,763 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 13:35:46,840 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónCIFRARDO_ASIMETRICO_CONTRASEÑA_CIFRADA_SIMETRICA
+[INFO] 2023-02-14 13:35:46,925 [main]  com.mycompany.psp_ev2_libexamen.managers.CipherManager generateSecretKey - La key simetrica generada es:com.sun.crypto.provider.DESKey@fffe7885
+[WARN] 2023-02-14 13:39:18,269 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 13:39:20,864 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónCIFRARDO_ASIMETRICO_CONTRASEÑA_CIFRADA_SIMETRICA
+[INFO] 2023-02-14 13:39:20,945 [main]  com.mycompany.psp_ev2_libexamen.managers.CipherManager generateSecretKey - La key simetrica generada es:com.sun.crypto.provider.DESKey@fffe7d66
+[WARN] 2023-02-14 13:39:51,545 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 13:39:53,175 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónCIFRARDO_ASIMETRICO_CONTRASEÑA_CIFRADA_SIMETRICA
+[INFO] 2023-02-14 13:39:53,252 [main]  com.mycompany.psp_ev2_libexamen.managers.CipherManager generateSecretKey - La key simetrica generada es:com.sun.crypto.provider.DESKey@fffe78d6
+[WARN] 2023-02-14 13:45:09,168 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[WARN] 2023-02-14 14:14:34,609 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 14:14:38,072 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónHASH_STRING
+[INFO] 2023-02-14 14:14:39,383 [main]  com.mycompany.psp_ev2_libexamen.managers.UIManager stringToHashedBase64 - Se va a hashear el input asd
+[INFO] 2023-02-14 14:14:39,396 [main]  com.mycompany.psp_ev2_libexamen.managers.UIManager stringToHashedBase64 - El Hash del String: asd en Base64 es: 5U7n4oX7sCdSeRQ6vExVTlMU57QX7KyDpZhKlk+suq1ohmooQcPoPd8SWimFVmJhxAFPn5YOxgJTrrzalROptA==
+[INFO] 2023-02-14 14:14:43,419 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónFIRMA_DIGITAL
+[INFO] 2023-02-14 14:14:43,477 [main]  com.mycompany.psp_ev2_libexamen.managers.CipherManager generateKeyPair - Se ha generado un par de claves asimetricas con el algoritmo: DSA
+[INFO] 2023-02-14 14:14:43,481 [main]  com.mycompany.psp_ev2_libexamen.managers.CipherManager makeSignature - Se ha creado la firma digital satisfactoriamente
+[WARN] 2023-02-14 14:14:43,514 [main]  com.mycompany.psp_ev2_libexamen.managers.CipherManager encryptBytesRSA - No se han podido encriptar de manera asimetrica con el algoritmo: DSA
+[WARN] 2023-02-14 14:15:43,973 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 14:15:46,365 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónFIRMA_DIGITAL
+[INFO] 2023-02-14 14:15:46,433 [main]  com.mycompany.psp_ev2_libexamen.managers.CipherManager generateKeyPair - Se ha generado un par de claves asimetricas con el algoritmo: DSA
+[INFO] 2023-02-14 14:15:46,436 [main]  com.mycompany.psp_ev2_libexamen.managers.CipherManager makeSignature - Se ha creado la firma digital satisfactoriamente
+[WARN] 2023-02-14 14:15:46,470 [main]  com.mycompany.psp_ev2_libexamen.managers.CipherManager encryptBytesRSA - No se han podido encriptar de manera asimetrica con el algoritmo: DSA
+[WARN] 2023-02-14 14:16:17,421 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 14:16:18,945 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónFIRMA_DIGITAL
+[INFO] 2023-02-14 14:16:19,015 [main]  com.mycompany.psp_ev2_libexamen.managers.CipherManager generateKeyPair - Se ha generado un par de claves asimetricas con el algoritmo: DSA
+[INFO] 2023-02-14 14:16:19,019 [main]  com.mycompany.psp_ev2_libexamen.managers.CipherManager makeSignature - Se ha creado la firma digital satisfactoriamente
+[WARN] 2023-02-14 14:16:55,875 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 14:17:03,700 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónENVIAR_CORREO
+[WARN] 2023-02-14 14:17:20,181 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 14:17:26,804 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónFIRMA_DIGITAL
+[INFO] 2023-02-14 14:17:42,199 [main]  com.mycompany.psp_ev2_libexamen.managers.CipherManager generateKeyPair - Se ha generado un par de claves asimetricas con el algoritmo: DSA
+[INFO] 2023-02-14 14:17:54,847 [main]  com.mycompany.psp_ev2_libexamen.managers.CipherManager makeSignature - Se ha creado la firma digital satisfactoriamente
+[WARN] 2023-02-14 14:24:03,906 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 14:24:09,443 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónFIRMA_DIGITAL
+[INFO] 2023-02-14 14:24:09,513 [main]  com.mycompany.psp_ev2_libexamen.managers.CipherManager generateKeyPair - Se ha generado un par de claves asimetricas con el algoritmo: DSA
+[INFO] 2023-02-14 14:24:09,517 [main]  com.mycompany.psp_ev2_libexamen.managers.CipherManager makeSignature - Se ha creado la firma digital satisfactoriamente
+[WARN] 2023-02-14 14:24:44,826 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 14:24:56,912 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónFIRMA_DIGITAL
+[INFO] 2023-02-14 14:25:04,387 [main]  com.mycompany.psp_ev2_libexamen.managers.CipherManager generateKeyPair - Se ha generado un par de claves asimetricas con el algoritmo: DSA
+[INFO] 2023-02-14 14:25:07,732 [main]  com.mycompany.psp_ev2_libexamen.managers.CipherManager makeSignature - Se ha creado la firma digital satisfactoriamente
+[WARN] 2023-02-14 14:37:15,900 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 14:37:19,038 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónSALIR
+[INFO] 2023-02-14 14:37:19,038 [main]  com.mycompany.psp_ev2_libexamen.Main main - Cerramos la apliación
+[ERROR] 2023-02-14 14:48:15,509 [main]  com.mycompany.psp_ev2_libexamen.Main main - No se ha  pasado un número de argumentos válido
+[WARN] 2023-02-14 14:48:45,438 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[WARN] 2023-02-14 14:56:55,271 [main]  com.mycompany.psp_ev2_libexamen.managers.UserManager getAllUsers - El fichero users.json estaba vacío. Se ha generado el usuario por defecto:Pablo
+[INFO] 2023-02-14 14:57:09,747 [main]  com.mycompany.psp_ev2_libexamen.Main main - Se ha introducido la opciónLISTAR_CONTENIDO
